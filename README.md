@@ -129,7 +129,11 @@ for various organizations.
 </div>
 
 ## Projects
-- TBA
+- Automation (Desktop / Downloads Cleaner)
+- Web Scraper (Food Prices) (Beautiful Soup, Selenium)
+- Web Development (Budget Tracking) (Django, Flask) (ThemeForest)
+- AI (Recommendation System) (surpr!se scikit)
+- Clone App (Flutter)
 
 ## Stats
 ![bhuschle's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuschle&show_icons=true&theme=gruvbox)
