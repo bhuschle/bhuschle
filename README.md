@@ -12,20 +12,68 @@ To leverage my extensive expertise in cyber security, technical infrastructure, 
 
 ## Education
 
+**Master of Computer Science** - Cyber Security and Software Engineering  
+*University of Texas at San Antonio* 
 
+
+**Bachelor of Arts** - Applied Mathematics and Computer Science  
+*University of Connecticut - Storrs*
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | [Iron Bow Technologies](#cyber-security-analyst)|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+## Work Experience
+
+### Cyber Security Analyst
+*Iron Bow Technologies -- 2023-2024*
+
+* Develop and implement cybersecurity strategies, policies, and procedures to protect organizational assets.
+* Conduct vulnerability assessments, penetration testing, and manage security controls (firewalls, IDS, data encryption).
+* Monitor and analyze network/system logs for suspicious activities, ensuring proactive threat detection and response.
+* Respond to and investigate security incidents, providing detailed reports and coordinating with external stakeholders and law
+enforcement as needed.
+* Perform forensically sound artifact collection and document network defense incidents from detection through resolution.
+* Analyze and correlate log files from various sources (host, proxy, network traffic, firewall, IDS) to identify and mitigate threats.
+* Stay updated on emerging cyber threats and technologies; conduct security awareness training to promote a security-conscious
+culture.
+* Ensure compliance with industry standards and regulations; contribute to disaster recovery and business continuity planning.
+* Collaborate with automation teams to streamline ticketing systems, achieving over a 75% reduction in response time and
+enhancing operational efficiency.
+
+### Mobile Expert
+*T-Mobile -- 2019-2022*
+
+* Provided technical support and customer service for mobile devices (Android & iOS) and technology equipment, including
+troubleshooting, protocol analysis, and on-site support.
+* Diagnosed and resolved hardware/software issues, managed device activations, and performed maintenance on laptops, desktops,
+and peripherals.
+* Installed, configured, and documented technology equipment; ensured system compatibility and logged events in the ticketing
+system.
+* Executed hard drive encryption, decryption, recovery, and administration; managed user accounts and device configurations.
+* Conducted quality reviews of tickets and security engagements; coordinated with internal and external teams to resolve security
+incidents.
+
+### IT Solutions Architect
+*Freelance -- 2016-2021*
+
+* Researched and negotiated with vendors for software and hardware purchases to ensure successful network project completion.
+* Led the deployment and integration of software applications across LANs, supporting information processing and security needs
+for various organizations.
+* Provided expertise on IT security policies and compliance; trained end-users on best practices and security trends.
+* Installed, configured, and optimized hardware/software; offered remote assistance using desktop technologies.
+* Guided users through new equipment setup and real-time troubleshooting.
+* Managed service desk calls and emails, ensuring prompt and effective resolution of end-user issues.
+
 ## Tools
+
 ### Cyber Security
 <div> 
   <img src="https://img.shields.io/badge/-ArcSight-FF6F00?&style=for-the-badge&logo=ArcSight&logoColor=white" /> 
