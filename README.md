@@ -10,8 +10,11 @@ I am a results-driven Cyber Security professional with extensive expertise in te
 ## Objective
 To leverage my extensive expertise in cyber security, technical infrastructure, and advanced troubleshooting to enhance enterprise-wide security frameworks. I aim to contribute to a forward-thinking organization by applying my strong analytical skills, innovative problem-solving abilities, and exceptional communication to drive effective solutions and foster strategic relationships with clients and stakeholders.
 
+## Education
+
+
+
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
