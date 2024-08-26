@@ -10,15 +10,6 @@ I am a results-driven Cyber Security professional with extensive expertise in te
 ## Objective
 To leverage my extensive expertise in cyber security, technical infrastructure, and advanced troubleshooting to enhance enterprise-wide security frameworks. I aim to contribute to a forward-thinking organization by applying my strong analytical skills, innovative problem-solving abilities, and exceptional communication to drive effective solutions and foster strategic relationships with clients and stakeholders.
 
-## Education
-
-**Master of Computer Science** - Cyber Security and Software Engineering  
-*University of Texas at San Antonio* 
-
-
-**Bachelor of Arts** - Applied Mathematics and Computer Science  
-*University of Connecticut - Storrs*
-
 ## Skills
 
 | Skill                                         | Associated Project / Experience        |
@@ -71,6 +62,15 @@ for various organizations.
 * Installed, configured, and optimized hardware/software; offered remote assistance using desktop technologies.
 * Guided users through new equipment setup and real-time troubleshooting.
 * Managed service desk calls and emails, ensuring prompt and effective resolution of end-user issues.
+
+## Education
+
+**Master of Computer Science** - Cyber Security and Software Engineering  
+*University of Texas at San Antonio* 
+
+
+**Bachelor of Arts** - Applied Mathematics and Computer Science  
+*University of Connecticut - Storrs*
 
 ## Tools
 
@@ -130,3 +130,6 @@ for various organizations.
 
 ## Projects
 - TBA
+
+## Stats
+![bhuschle's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuschle&show_icons=true&theme=gruvbox)
