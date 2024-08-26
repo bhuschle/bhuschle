@@ -21,14 +21,14 @@ To leverage my extensive expertise in cyber security, technical infrastructure, 
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project / Experience        |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | [Iron Bow Technologies](#cyber-security-analyst)|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Traffic Monitoring and Attack Detection | [Iron Bow Technologies](#cyber-security-analyst)|
+| Incident Response Planning and Execution      | [Iron Bow Technologies](#cyber-security-analyst)|
+| Case Management with JitBit                | [Iron Bow Technologies](#cyber-security-analyst)|
+| Scripting and Automation for Threat Mitigation | [Iron Bow Technologies](#cyber-security-analyst)|
+| Python scripting / Automation | [Script Road](https://github.com/bhuschle/ScriptRoad) | 
 
 ## Work Experience
 
