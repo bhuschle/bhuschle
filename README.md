@@ -14,17 +14,17 @@ To leverage my extensive expertise in cyber security, technical infrastructure, 
 
 | Skill                                         | Associated Project / Experience        |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [Iron Bow Technologies](#cyber-security-analyst)|
-| Network Traffic Monitoring and Attack Detection | [Iron Bow Technologies](#cyber-security-analyst)|
-| Incident Response Planning and Execution      | [Iron Bow Technologies](#cyber-security-analyst)|
-| Case Management with JitBit                | [Iron Bow Technologies](#cyber-security-analyst)|
-| Scripting and Automation for Threat Mitigation | [Iron Bow Technologies](#cyber-security-analyst)|
+| SIEM Implementation and Log Analysis          | [Guardsight, Inc](#cyber-security-analyst)|
+| Network Traffic Monitoring and Attack Detection | [Guardsight, Inc](#cyber-security-analyst)|
+| Incident Response Planning and Execution      | [Guardsight, Inc](#cyber-security-analyst)|
+| Case Management with JitBit                | [Guardsight, Inc](#cyber-security-analyst)|
+| Scripting and Automation for Threat Mitigation | [Guardsight, Inc](#cyber-security-analyst)|
 | Python scripting / Automation | [Script Road](https://github.com/bhuschle/ScriptRoad) | 
 
 ## Work Experience
 
 ### Cyber Security Analyst
-*Iron Bow Technologies -- 2023-2024*
+*Guardsight, Inc -- 2019-2024*
 
 * Develop and implement cybersecurity strategies, policies, and procedures to protect organizational assets.
 * Conduct vulnerability assessments, penetration testing, and manage security controls (firewalls, IDS, data encryption).
@@ -40,7 +40,7 @@ culture.
 enhancing operational efficiency.
 
 ### Mobile Expert
-*T-Mobile -- 2019-2022*
+*T-Mobile -- 2017-2019*
 
 * Provided technical support and customer service for mobile devices (Android & iOS) and technology equipment, including
 troubleshooting, protocol analysis, and on-site support.
@@ -53,7 +53,7 @@ system.
 incidents.
 
 ### IT Solutions Architect
-*Freelance -- 2016-2021*
+*Freelance -- 2014-2019*
 
 * Researched and negotiated with vendors for software and hardware purchases to ensure successful network project completion.
 * Led the deployment and integration of software applications across LANs, supporting information processing and security needs
