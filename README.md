@@ -24,7 +24,10 @@ To leverage my extensive expertise in cyber security, technical infrastructure, 
 ## Work Experience
 
 ### Cyber Security Analyst
-*Guardsight, Inc -- 2019-2024*
+*Solis Security -- 2024-Present*
+
+
+*Guardsight, Inc -- 2023-2024*
 
 * Develop and implement cybersecurity strategies, policies, and procedures to protect organizational assets.
 * Conduct vulnerability assessments, penetration testing, and manage security controls (firewalls, IDS, data encryption).
@@ -40,7 +43,7 @@ culture.
 enhancing operational efficiency.
 
 ### Mobile Expert
-*T-Mobile -- 2017-2019*
+*T-Mobile -- 2018-2022*
 
 * Provided technical support and customer service for mobile devices (Android & iOS) and technology equipment, including
 troubleshooting, protocol analysis, and on-site support.
